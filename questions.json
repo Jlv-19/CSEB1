@@ -1,13 +1,13 @@
 [
     {
-        "questionText": "What is the capital of France?",
-        "options": ["Berlin", "Madrid", "Paris", "Rome"],
-        "correctAnswer": "Paris"
+        "questionText": "Which cost is closely related to output?",
+        "options": ["Marginal Cost", "Sunk Cost", "Shut down Cost", "Total Sales"],
+        "correctAnswer": "Marginal Cost"
     },
     {
-        "questionText": "What is 2 + 2?",
-        "options": ["3", "4", "5", "6"],
-        "correctAnswer": "4"
+        "questionText": "Which Costing method is applicable for dairy industry?",
+        "options": ["Contract", "Output", "Job", "Batch"],
+        "correctAnswer": "Output"
     },
     {
         "questionText": "Which is the largest planet?",
