@@ -1,0 +1,22 @@
+[
+    {
+        "questionText": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "questionText": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": "4"
+    },
+    {
+        "questionText": "Which is the largest planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": "Jupiter"
+    },
+    {
+        "questionText": "Who developed JavaScript?",
+        "options": ["Brendan Eich", "James Gosling", "Bjarne Stroustrup", "Guido van Rossum"],
+        "correctAnswer": "Brendan Eich"
+    }
+]
