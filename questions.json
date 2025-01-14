@@ -10,13 +10,94 @@
         "correctAnswer": "Output"
     },
     {
-        "questionText": "Which is the largest planet?",
-        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-        "correctAnswer": "Jupiter"
+        "questionText": "When was the National Federation of State Cooperative Banks (NAFSCOB) established?",
+        "options": ["1960", "1964", "1978", "1993"],
+        "correctAnswer": "1964"
     },
     {
-        "questionText": "Who developed JavaScript?",
-        "options": ["Brendan Eich", "James Gosling", "Bjarne Stroustrup", "Guido van Rossum"],
-        "correctAnswer": "Brendan Eich"
+        "questionText": "Where is the headquarters of NAFSCOB located?",
+        "options": ["New Delhi", "Mumbai", "Chennai", "Kolkata"],
+        "correctAnswer": "Mumbai"
+    },
+    {
+        "questionText": "What was the original name of NAFSCOB before it changed in 1978?",
+        "options": ["National State Co-operative Bank Federation", "All India State Co-operative Bank Federation", "All India Co-operative Bank Federation", "National Co-operative Bank Federation"],
+        "correctAnswer": "All India State Co-operative Bank Federation"
+    },
+    {
+        "questionText": "Who proposed the idea of setting up a federation of State Cooperative Banks (SCBs) in India?",
+        "options": ["T.T. Krishnacharya", "Sree B. Viswanathan", "D.R. Gadgil", "K.R. Aravindakshan"],
+        "correctAnswer": "D.R. Gadgil"
+    },
+    {
+        "questionText": "What is the main aim of NAFSCOB?",
+        "options": ["To regulate the interest rates in the banking sector", "To safeguard the interests of State Co-operative Banks (SCBs) in India", "To promote private banking institutions", "To provide international banking services"],
+        "correctAnswer": "To safeguard the interests of State Co-operative Banks (SCBs) in India"
+    },
+    {
+        "questionText": "What role does NAFSCOB serve in the interbank claims of the co-operative sector?",
+        "options": ["Loan provider", "Clearing house", "Investment banker", "Audit authority"],
+        "correctAnswer": "Clearing house"
+    },
+    {
+        "questionText": "What is the function of the All India Mutual Arrangement Scheme (AIMAS)?",
+        "options": ["To regulate foreign exchange transactions", "To facilitate the drawing of demand drafts, transfer of money, and collection of bills and cheques", "To monitor interest rates for co-operative banks", "To provide loans to co-operative banks"],
+        "correctAnswer": "To facilitate the drawing of demand drafts, transfer of money, and collection of bills and cheques"
+    },
+    {
+        "questionText": "When was AIMAS inaugurated?",
+        "options": ["1964", "1965", "1967", "1978"],
+        "correctAnswer": "1965"
+    },
+    {
+        "questionText": "Who inaugurated AIMAS on 21st August 1965?",
+        "options": ["D.R. Gadgil", "K.R. Aravindakshan", "T.T. Krishnacharya", "Sree B. Viswanathan"],
+        "correctAnswer": "T.T. Krishnacharya"
+    },
+    {
+        "questionText": "What is the name of the publication of NAFSCOB?",
+        "options": ["NAFSCOB News", "NAFSCOB Journal", "NAFSCOB Bulletin", "State Co-operative Bulletin"],
+        "correctAnswer": "NAFSCOB Bulletin"
+    },
+    {
+        "questionText": "When did NAFSCOB celebrate its Golden Jubilee?",
+        "options": ["1993", "2000", "2014", "2015"],
+        "correctAnswer": "2014"
+    },
+    {
+        "questionText": "Who was the first Malayali to become the chairman of NAFSCOB?",
+        "options": ["T.T. Krishnacharya", "Sree B. Viswanathan", "K.R. Aravindakshan", "D.R. Gadgil"],
+        "correctAnswer": "K.R. Aravindakshan"
+    },
+    {
+        "questionText": "When did NAFSCOB start the 'Best Co-operator' award?",
+        "options": ["1990", "1995-1996", "2000", "2005"],
+        "correctAnswer": "1995-1996"
+    },
+    {
+        "questionText": "How much is the cash prize given for the 'Best Co-operator' award?",
+        "options": ["Rs 25,000", "Rs 50,000", "Rs 75,000", "Rs 1,00,000"],
+        "correctAnswer": "Rs 50,000"
+    },
+    {
+        "questionText": "When was the National Co-operative Bank of India (NCBI) established?",
+        "options": ["1980", "1990", "1993", "2000"],
+        "correctAnswer": "1993"
+    },
+    {
+        "questionText": "What is the main purpose of the National Co-operative Bank of India (NCBI)?",
+        "options": ["To promote private investment in co-operative banks", "To act as the equaliser between higher and lower investment banks", "To offer consumer banking services", "To invest in international markets"],
+        "correctAnswer": "To act as the equaliser between higher and lower investment banks"
+    },
+    {
+        "questionText": "Under which act was NCBI registered?",
+        "options": ["Banking Regulation Act", "Multistate Co-operative Societies Act", "Reserve Bank of India Act", "Companies Act"],
+        "correctAnswer": "Multistate Co-operative Societies Act"
+    },
+    {
+        "questionText": "Who was the first chairman of the Co-operative Bank of India (COBI)?",
+        "options": ["T.T. Krishnacharya", "K.R. Aravindakshan", "Sree B. Viswanathan", "D.R. Gadgil"],
+        "correctAnswer": "Sree B. Viswanathan"
     }
 ]
+
