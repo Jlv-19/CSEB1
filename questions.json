@@ -98,6 +98,150 @@
         "questionText": "Who was the first chairman of the Co-operative Bank of India (COBI)?",
         "options": ["T.T. Krishnacharya", "K.R. Aravindakshan", "Sree B. Viswanathan", "D.R. Gadgil"],
         "correctAnswer": "Sree B. Viswanathan"
+    },
+    {
+        "questionText": "What was the major recommendation of the CRAFICARD Committee?",
+        "options": ["Formation of NABARD", "Formation of RBI", "Formation of SIDBI", "Creation of Agricultural Credit Department"],
+        "correctAnswer": "Formation of NABARD"
+    },
+    {
+        "questionText": "When did the Government of India approve the formation of NABARD?",
+        "options": ["1981", "1982", "1979", "1980"],
+        "correctAnswer": "1981"
+    },
+    {
+        "questionText": "What was the role of the Agricultural Refinance and Development Corporation (ARDC) before NABARD?",
+        "options": ["Refinancing agricultural loans", "Issuing currency", "Regulating commercial banks", "Providing microfinance loans"],
+        "correctAnswer": "Refinancing agricultural loans"
+    },
+    {
+        "questionText": "Who was the first Chairman of NABARD?",
+        "options": ["Shri B. Sivaraman", "Shri Shaji K V", "Smt. Indira Gandhi", "Dr. Raghuram Rajan"],
+        "correctAnswer": "Shri B. Sivaraman"
+    },
+    {
+        "questionText": "Which organization did NABARD replace?",
+        "options": ["Agricultural Credit Department (ACD)", "Reserve Bank of India (RBI)", "SIDBI", "World Bank"],
+        "correctAnswer": "Agricultural Credit Department (ACD)"
+    },
+    {
+        "questionText": "How many members are in the Board of Directors of NABARD?",
+        "options": ["15", "20", "12", "10"],
+        "correctAnswer": "15"
+    },
+    {
+        "questionText": "Which sector does NABARD primarily focus on?",
+        "options": ["Rural Development", "Urban Development", "Corporate Finance", "Public Sector Banks"],
+        "correctAnswer": "Rural Development"
+    },
+    {
+        "questionText": "Who chaired the Committee to Review the Arrangements for Institutional Credit for Agriculture and Rural Development (CRAFICARD)?",
+        "options": ["Shri B. Sivaraman", "Smt. Indira Gandhi", "Shri Shaji K V", "Dr. Raghuram Rajan"],
+        "correctAnswer": "Shri B. Sivaraman"
+    },
+    {
+        "questionText": "When was the National Bank for Agriculture and Rural Development (NABARD) established?",
+        "options": ["12 July 1982", "5 November 1982", "28 November 1979", "1 January 1980"],
+        "correctAnswer": "12 July 1982"
+    },
+    {
+        "questionText": "What was the initial capital of NABARD when it was set up?",
+        "options": ["Rs. 100 crore", "Rs. 500 crore", "Rs. 1000 crore", "Rs. 17,080 crore"],
+        "correctAnswer": "Rs. 100 crore"
+    },
+    {
+        "questionText": "Who dedicated NABARD to the nation?",
+        "options": ["Shri B. Sivaraman", "Smt. Indira Gandhi", "Shri Shaji K V", "Dr. Manmohan Singh"],
+        "correctAnswer": "Smt. Indira Gandhi"
+    },
+    {
+        "questionText": "What was NABARD's paid-up capital as on 31 March 2022?",
+        "options": ["Rs. 17,080 crore", "Rs. 10,000 crore", "Rs. 50,000 crore", "Rs. 5,000 crore"],
+        "correctAnswer": "Rs. 17,080 crore"
+    },
+    {
+        "questionText": "Which institution replaced the Agricultural Credit Department (ACD) and Rural Planning and Credit Cell (RPCC) of the RBI?",
+        "options": ["NABARD", "Rural Development Bank", "Reserve Bank of India", "Indian Rural Bank"],
+        "correctAnswer": "NABARD"
+    },
+    {
+        "questionText": "Who currently owns NABARD?",
+        "options": ["Government of India", "RBI", "Private Banks", "State Governments"],
+        "correctAnswer": "Government of India"
+    },
+    {
+        "questionText": "Which function of RBI was transferred to NABARD when it was established?",
+        "options": ["Right to issue rural credit", "Issuing currency", "Control of inflation", "Regulation of commercial banks"],
+        "correctAnswer": "Right to issue rural credit"
+    },
+    {
+        "questionText": "Which body regulates and controls rural credit in India?",
+        "options": ["NABARD", "RBI", "SIDBI", "ICICI Bank"],
+        "correctAnswer": "NABARD"
+    },
+    {
+        "questionText": "Which of the following is NOT part of the Board of Directors of NABARD?",
+        "options": ["Managing Director of NABARD", "Chairman of NABARD", "Experts from rural economies", "Experts from the stock market"],
+        "correctAnswer": "Experts from the stock market"
+    },
+    {
+        "questionText": "What is the vision of NABARD?",
+        "options": ["Development Bank of the Nation for Fostering Rural Prosperity", "Pioneering Financial Inclusion in India", "Empowering Rural Farmers", "Bridging the Gap between Rural and Urban Areas"],
+        "correctAnswer": "Development Bank of the Nation for Fostering Rural Prosperity"
+    },
+    {
+        "questionText": "Who appoints the Chairman of NABARD?",
+        "options": ["Government of India", "RBI", "State Government", "Board of Directors of NABARD"],
+        "correctAnswer": "Government of India"
+    },
+    {
+        "questionText": "Which body created a Research and Development fund for NABARD?",
+        "options": ["NABARD", "RBI", "Government of India", "World Bank"],
+        "correctAnswer": "NABARD"
+    },
+    {
+        "questionText": "What was one of NABARD's functions after its creation?",
+        "options": ["Refinancing loans given by primary agricultural societies", "Issuing rural credit", "Providing insurance services", "Offering microfinance loans directly to farmers"],
+        "correctAnswer": "Refinancing loans given by primary agricultural societies"
+    },
+    {
+        "questionText": "Which of the following is NOT a key function of NABARD?",
+        "options": ["Refinancing rural credit", "Providing long-term financial assistance", "Issuing currency", "Developing rural infrastructure"],
+        "correctAnswer": "Issuing currency"
+    },
+    {
+        "questionText": "What is the primary focus of NABARD's Research and Development Fund?",
+        "options": ["Promoting rural development initiatives", "Supporting urban infrastructure projects", "Improving industrial growth", "Regulating banking activities"],
+        "correctAnswer": "Promoting rural development initiatives"
+    },
+    {
+        "questionText": "Which function did NABARD take over from the Reserve Bank of India?",
+        "options": ["Agricultural credit functions", "Currency issuance", "Regulation of commercial banks", "Control of inflation"],
+        "correctAnswer": "Agricultural credit functions"
+    },
+    {
+        "questionText": "What is the capital structure of NABARD?",
+        "options": ["Fully owned by the Government of India", "Jointly owned by RBI and Government of India", "Private ownership", "Owned by cooperative banks"],
+        "correctAnswer": "Fully owned by the Government of India"
+    },
+    {
+        "questionText": "What is NABARD’s role in the rural credit institutions ecosystem?",
+        "options": ["Coordination and regulation", "Direct lending to farmers", "Managing urban banks", "Providing microfinance to small businesses"],
+        "correctAnswer": "Coordination and regulation"
+    },
+    {
+        "questionText": "Which government body appoints the Chairman of NABARD?",
+        "options": ["Government of India", "Reserve Bank of India", "Ministry of Rural Development", "Ministry of Finance"],
+        "correctAnswer": "Government of India"
+    },
+    {
+        "questionText": "Who was the Prime Minister of India when NABARD was dedicated to the nation?",
+        "options": ["Smt. Indira Gandhi", "Shri Atal Bihari Vajpayee", "Dr. Manmohan Singh", "Shri Narendra Modi"],
+        "correctAnswer": "Smt. Indira Gandhi"
     }
 ]
+
+
+
+
 
